@@ -1,0 +1,40 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+img {
+    margin-top: 32px;
+    height: 220px;
+}
+p{
+    opacity: 0.85;
+}
+.buttn {
+    width: 250px;
+    text-align: center;
+    height: 42px;
+    background-color: rgb(255, 189, 47);
+    color: black;
+    border: none;
+    border-radius: 20px;
+    font-size: 25px;
+}
+.a-btn {
+    position: absolute;
+    background-color: blueviolet;
+    text-decoration: none;
+    top: 0;
+    right: 0;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.container-xxl {
+    margin-top: 100px;
+}
+.card-body {
+    text-align: center;
+}
+.bi-suit-heart {
+    color: red;
+}
+
